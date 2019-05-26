@@ -59,17 +59,17 @@
 Графический интерфейс представлен в виде [мокапов]. <br/>
 При запуске приложения пользователь попадает в меню:
 
-![Меню] <br/>
+![Меню] (https://github.com/eduardrogov/keyboard-teacher/blob/master/images/Меню.png) <br/>
 
 Далее при нажатие на кнопку "Настройки" появляется окно настроек:
 
-![Настройки] <br/>
+![Настройки] (https://github.com/eduardrogov/keyboard-teacher/blob/master/images/Настройки.png) <br/>
 
 При нажатии на кнопку "Начать" в зависимости от выбранного вида тренировки пользователь перейдет к окнам игры:
 
-![Игра1] <br/>
+![Игра1] (https://github.com/eduardrogov/keyboard-teacher/blob/master/images/Начать_тренировка_на_обучение.png) <br/>
 
-![Игра2] <br/>
+![Игра2] (https://github.com/eduardrogov/keyboard-teacher/blob/master/images/Начать_тренировка_на_скорость.png) <br/>
 
 
 ### 2.3. Характеристики пользователя <a name="2.3"></a>
